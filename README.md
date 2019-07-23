@@ -14,7 +14,7 @@ https://mervetandet.github.io/nkdstat/
 <p class="contentsEntryText"> </p>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0003.html#intro01" id="intro_01" class="calibre4">Introduction: <span class="ITALIC">Why I hated calculus but love statistics</span></a></p></div>
 <p class="contentsEntryText"> </p>
-<div class="dedicationPage"><p class="contentsEntryText1"><a href="text/part0004.html#ch01" id="ch_01" class="calibre4">1 What’s the Point?</a></p></div>
+<div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0004.html#ch01" id="ch_01" class="calibre4">1 What’s the Point?</a></p></div>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="text/part0005.html#ch02" id="ch_02" class="calibre4">2 Descriptive Statistics: <span class="ITALIC">Who was the best baseball player of all time?</span></a></p></div>
 <p class="TOC-App"><a href="text/part0005.html#app02" id="app_02" class="calibre4">Appendix to Chapter 2</a></p>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="text/part0006.html#ch03" id="ch_03" class="calibre4">3 Deceptive Description: <span class="ITALIC">“He’s got a great personality!” and other true but grossly misleading statements</span></a></p></div>
