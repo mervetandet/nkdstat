@@ -7,8 +7,7 @@
 <link href="../page_styles.css" type="text/css" rel="stylesheet"/>
 </head>
   <body class="calibre">
-<p class="FM-CO">Contents</p>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="kindle:embed:0003?mime=image/jpg" id="cover_01" class="calibre4">Cover</a></p></div>
+
 
 <p class="contentsEntryText"> </p>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0003.html#intro01" id="intro_01" class="calibre4">Introduction: <span class="ITALIC">Why I hated calculus but love statistics</span></a></p></div>
