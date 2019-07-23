@@ -8,6 +8,8 @@
 </head>
   <body class="calibre">
 
+https://mervetandet.github.io/nkdstat/
+<div class="dedicationPage"><p class="contentsEntryText"><a href="https://mervetandet.github.io/nkdstat/"  class="calibre4">Link to: GitPage</a></p></div>
 
 <p class="contentsEntryText"> </p>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0003.html#intro01" id="intro_01" class="calibre4">Introduction: <span class="ITALIC">Why I hated calculus but love statistics</span></a></p></div>
