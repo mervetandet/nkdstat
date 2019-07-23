@@ -37,9 +37,8 @@
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0018.html#con01" id="con_01" class="calibre4">Conclusion: <span class="ITALIC">Five questions that statistics can help answer</span></a></p></div>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0019.html#app01" id="app_01" class="calibre4">Appendix: <span class="ITALIC">Statistical software</span></a></p></div>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0020.html#notes01" id="notes_01" class="calibre4">Notes</a></p></div>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0021.html#ack01" id="ack_01" class="calibre4">Acknowledgments</a></p></div>
+
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0022.html#index01" id="index_01" class="calibre4">Index</a></p></div>
 <p class="contentsEntryText1"> </p>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0023.html#copy01" id="copy_01" class="calibre4">Copyright</a></p></div>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0024.html#also01" id="also_01" class="calibre4">Also by Charles Wheelan</a></p></div>
+
 </body></html>
