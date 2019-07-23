@@ -9,8 +9,7 @@
   <body class="calibre">
 <p class="FM-CO">Contents</p>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="kindle:embed:0003?mime=image/jpg" id="cover_01" class="calibre4">Cover</a></p></div>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0000.html" id="title_01" class="calibre4">Title Page</a></p></div>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0001.html#dedi01" id="dedi_01" class="calibre4">Dedication</a></p></div>
+
 <p class="contentsEntryText"> </p>
 <div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0003.html#intro01" id="intro_01" class="calibre4">Introduction: <span class="ITALIC">Why I hated calculus but love statistics</span></a></p></div>
 <p class="contentsEntryText"> </p>
