@@ -1,0 +1,146 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator opf:role="aut" opf:file-as="Wheelan, Charles">Wheelan, Charles</dc:creator>
+<dc:publisher>Norton</dc:publisher>
+    <meta name="calibre:title_sort" content="Naked Statistics: Stripping the Dread from the Data"/>
+    <meta name="calibre:timestamp" content="2013-02-03T18:28:19+00:00"/>
+    <dc:title>Naked Statistics: Stripping the Dread from the Data</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2013-01-07T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.17) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="MOBI-ASIN">B007Q6XLF2</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">urn:uuid:6ec08fc7-07b6-4296-a00c-4903215a8688</dc:identifier>
+    <meta name="calibre:user_categories" content="{}"/>
+<meta name="calibre:author_link_map" content="{&quot;Wheelan, Charles&quot;: &quot;&quot;}"/>
+<dc:language>en</dc:language>
+<dc:identifier opf:scheme="calibre">6ec08fc7-07b6-4296-a00c-4903215a8688</dc:identifier>
+</metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="fonts/00001.ttf" id="id1" media-type="application/x-font-truetype"/>
+    <item href="images/00002.jpeg" id="id2" media-type="image/jpeg"/>
+    <item href="images/00004.jpeg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00005.jpeg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00006.jpeg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00007.jpeg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00008.jpeg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00009.jpeg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00010.jpeg" id="id10" media-type="image/jpeg"/>
+    <item href="images/00011.jpeg" id="id11" media-type="image/jpeg"/>
+    <item href="images/00012.jpeg" id="id12" media-type="image/jpeg"/>
+    <item href="images/00013.jpeg" id="id13" media-type="image/jpeg"/>
+    <item href="images/00014.jpeg" id="id14" media-type="image/jpeg"/>
+    <item href="images/00015.jpeg" id="id15" media-type="image/jpeg"/>
+    <item href="images/00016.jpeg" id="id16" media-type="image/jpeg"/>
+    <item href="images/00017.jpeg" id="id17" media-type="image/jpeg"/>
+    <item href="images/00018.jpeg" id="id18" media-type="image/jpeg"/>
+    <item href="images/00019.jpeg" id="id19" media-type="image/jpeg"/>
+    <item href="images/00020.jpeg" id="id20" media-type="image/jpeg"/>
+    <item href="images/00021.jpeg" id="id21" media-type="image/jpeg"/>
+    <item href="images/00022.jpeg" id="id22" media-type="image/jpeg"/>
+    <item href="images/00023.jpeg" id="id23" media-type="image/jpeg"/>
+    <item href="images/00024.jpeg" id="id24" media-type="image/jpeg"/>
+    <item href="images/00025.jpeg" id="id25" media-type="image/jpeg"/>
+    <item href="images/00026.jpeg" id="id26" media-type="image/jpeg"/>
+    <item href="images/00027.jpeg" id="id27" media-type="image/jpeg"/>
+    <item href="images/00028.jpeg" id="id28" media-type="image/jpeg"/>
+    <item href="images/00029.jpeg" id="id29" media-type="image/jpeg"/>
+    <item href="images/00030.jpeg" id="id30" media-type="image/jpeg"/>
+    <item href="images/00031.jpeg" id="id31" media-type="image/jpeg"/>
+    <item href="images/00032.jpeg" id="id32" media-type="image/jpeg"/>
+    <item href="images/00033.jpeg" id="id33" media-type="image/jpeg"/>
+    <item href="images/00034.jpeg" id="id34" media-type="image/jpeg"/>
+    <item href="images/00035.jpeg" id="id35" media-type="image/jpeg"/>
+    <item href="images/00036.jpeg" id="id36" media-type="image/jpeg"/>
+    <item href="images/00037.jpeg" id="id37" media-type="image/jpeg"/>
+    <item href="images/00038.jpeg" id="id38" media-type="image/jpeg"/>
+    <item href="images/00039.jpeg" id="id39" media-type="image/jpeg"/>
+    <item href="images/00040.jpeg" id="id40" media-type="image/jpeg"/>
+    <item href="images/00041.jpeg" id="id41" media-type="image/jpeg"/>
+    <item href="images/00042.jpeg" id="id42" media-type="image/jpeg"/>
+    <item href="images/00043.jpeg" id="id43" media-type="image/jpeg"/>
+    <item href="images/00044.jpeg" id="id44" media-type="image/jpeg"/>
+    <item href="images/00045.jpeg" id="id45" media-type="image/jpeg"/>
+    <item href="images/00046.jpeg" id="id46" media-type="image/jpeg"/>
+    <item href="images/00047.jpeg" id="id47" media-type="image/jpeg"/>
+    <item href="images/00048.jpeg" id="id48" media-type="image/jpeg"/>
+    <item href="images/00049.jpeg" id="id49" media-type="image/jpeg"/>
+    <item href="images/00050.jpeg" id="id50" media-type="image/jpeg"/>
+    <item href="images/00051.jpeg" id="id51" media-type="image/jpeg"/>
+    <item href="images/00052.jpeg" id="id52" media-type="image/jpeg"/>
+    <item href="images/00053.jpeg" id="id53" media-type="image/jpeg"/>
+    <item href="images/00054.jpeg" id="id54" media-type="image/jpeg"/>
+    <item href="images/00055.jpeg" id="id55" media-type="image/jpeg"/>
+    <item href="images/00056.jpeg" id="id56" media-type="image/jpeg"/>
+    <item href="images/00057.jpeg" id="id57" media-type="image/jpeg"/>
+    <item href="images/00058.jpeg" id="id58" media-type="image/jpeg"/>
+    <item href="images/00059.jpeg" id="id59" media-type="image/jpeg"/>
+    <item href="images/00060.jpeg" id="id60" media-type="image/jpeg"/>
+    <item href="images/00061.jpeg" id="id61" media-type="image/jpeg"/>
+    <item href="images/00062.jpeg" id="id62" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="text/part0000.html" id="id67" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id68" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id69" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id70" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id71" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id72" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id73" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id74" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id75" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id76" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id77" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id78" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id79" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id80" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id81" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id82" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id83" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id84" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id85" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id86" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id87" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id88" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id89" media-type="application/xhtml+xml"/>
+    <item href="text/part0023.html" id="id90" media-type="application/xhtml+xml"/>
+    <item href="text/part0024.html" id="id91" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id67"/>
+    <itemref idref="id68"/>
+    <itemref idref="id69"/>
+    <itemref idref="id70"/>
+    <itemref idref="id71"/>
+    <itemref idref="id72"/>
+    <itemref idref="id73"/>
+    <itemref idref="id74"/>
+    <itemref idref="id75"/>
+    <itemref idref="id76"/>
+    <itemref idref="id77"/>
+    <itemref idref="id78"/>
+    <itemref idref="id79"/>
+    <itemref idref="id80"/>
+    <itemref idref="id81"/>
+    <itemref idref="id82"/>
+    <itemref idref="id83"/>
+    <itemref idref="id84"/>
+    <itemref idref="id85"/>
+    <itemref idref="id86"/>
+    <itemref idref="id87"/>
+    <itemref idref="id88"/>
+    <itemref idref="id89"/>
+    <itemref idref="id90"/>
+    <itemref idref="id91"/>
+  </spine>
+  <guide>
+    <reference href="text/part0003.html" type="text" title="Introduction"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="text/part0023.html" type="copyright-page" title="Copyright"/>
+    <reference href="text/part0002.html" type="toc" title="Table of Contents"/>
+  </guide>
+</package>

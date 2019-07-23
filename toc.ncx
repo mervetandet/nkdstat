@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="urn:uuid:6ec08fc7-07b6-4296-a00c-4903215a8688" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.9.17)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Naked Statistics: Stripping the Dread from the Data</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="807f3201-e6e4-4da4-bccf-b914d2c6cad4" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="text/part0000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="386b23fb-4d88-4f0c-bda2-bd7ba70f7bf2" playOrder="2">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="299cbf5b-409d-4180-b711-f29a9396040c" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="31c9b384-dc70-4e3a-9aeb-87a09b61c6d3" playOrder="4">
+      <navLabel>
+        <text>Introduction: Why I hated calculus but love statistics</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="55786817-8af1-4824-b85d-8d4e816c308f" playOrder="5">
+      <navLabel>
+        <text>1 What’s the Point?</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="be1fa353-adbe-4459-89c5-372ce5cf9de3" playOrder="6">
+      <navLabel>
+        <text>2 Descriptive Statistics: Who was the best baseball player of all time?</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+      <navPoint class="chapter" id="bf9e1660-e95c-4a01-a082-e9c967c3a205" playOrder="7">
+        <navLabel>
+          <text>Appendix to Chapter 2</text>
+        </navLabel>
+        <content src="text/part0005.html#app02"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="81884741-f0b5-4ef9-88e0-5c081f93800c" playOrder="8">
+      <navLabel>
+        <text>3 Deceptive Description: “He’s got a great personality!” and other true but grossly misleading statements</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d22a3157-5040-449e-ba63-aeeb6dcd578d" playOrder="9">
+      <navLabel>
+        <text>4 Correlation: How does Netflix know what movies I like?</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+      <navPoint class="chapter" id="a94ae3ee-ef04-4be7-a313-32a2bbc350eb" playOrder="10">
+        <navLabel>
+          <text>Appendix to Chapter 4</text>
+        </navLabel>
+        <content src="text/part0007.html#app04"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="971aea9b-60ac-4700-b8fe-c00e8b09b530" playOrder="11">
+      <navLabel>
+        <text>5 Basic Probability: Don’t buy the extended warranty on your $99 printer</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ae60eefc-550a-459c-8b77-5f69b704744d" playOrder="12">
+      <navLabel>
+        <text>5½ The Monty Hall Problem</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="84748102-3f00-4c49-b79a-5f54e59b6819" playOrder="13">
+      <navLabel>
+        <text>6 Problems with Probability: How overconfident math geeks nearly destroyed the global financial system</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="99579fb5-494b-43d2-9e51-a77ceb15496f" playOrder="14">
+      <navLabel>
+        <text>7 The Importance of Data: “Garbage in, garbage out”</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f14fbada-e269-43b7-a8d2-d69d54cc1d6a" playOrder="15">
+      <navLabel>
+        <text>8 The Central Limit Theorem: The Lebron James of statistics</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="854f96d8-f22d-4a38-9cd8-fd82b2972d1b" playOrder="16">
+      <navLabel>
+        <text>9 Inference: Why my statistics professor thought I might have cheated</text>
+      </navLabel>
+      <content src="text/part0013.html"/>
+      <navPoint class="chapter" id="9a0c84c7-fb41-480d-9893-e92c9c7a8ecd" playOrder="17">
+        <navLabel>
+          <text>Appendix to Chapter 9</text>
+        </navLabel>
+        <content src="text/part0013.html#app09"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="41afb250-188f-40ac-8040-956855c821ac" playOrder="18">
+      <navLabel>
+        <text>10 Polling: How we know that 64 percent of Americans support the death penalty (with a sampling error ± 3 percent)</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+      <navPoint class="chapter" id="3bd61050-bf78-4755-a5a0-d1b30a44dfc6" playOrder="19">
+        <navLabel>
+          <text>Appendix to Chapter 10</text>
+        </navLabel>
+        <content src="text/part0014.html#app10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="861578a2-8019-493d-af15-554deb33170d" playOrder="20">
+      <navLabel>
+        <text>11 Regression Analysis: The miracle elixir</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+      <navPoint class="chapter" id="045b8d3e-68db-47a4-8b51-81b99fe3b68f" playOrder="21">
+        <navLabel>
+          <text>Appendix to Chapter 11</text>
+        </navLabel>
+        <content src="text/part0015.html#app11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="d469d51c-7b3d-41e8-971c-f0567637dddb" playOrder="22">
+      <navLabel>
+        <text>12 Common Regression Mistakes: The mandatory warning label</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="f47e8754-8f23-4ec5-8526-e4d8699ca74b" playOrder="23">
+      <navLabel>
+        <text>13 Program Evaluation: Will going to Harvard change your life?</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7baee279-e6ae-4ffa-aa07-c7013fddde31" playOrder="24">
+      <navLabel>
+        <text>Conclusion: Five questions that statistics can help answer</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="c74f4520-ca58-4ed6-8e69-1f36f7488d40" playOrder="25">
+      <navLabel>
+        <text>Appendix: Statistical software</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="82153e4c-4a39-48e8-9d23-497dadacef10" playOrder="26">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="ead074dd-30e8-43f0-8bee-d321bf4f5dfa" playOrder="27">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="d6592bb1-8cf0-44f1-8de4-3d1e49e10704" playOrder="28">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="text/part0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="33b96d24-1184-4192-8c09-79cde916ef59" playOrder="29">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="bd49130f-6146-46d0-9acb-123ec15baff7" playOrder="30">
+      <navLabel>
+        <text>Also by Charles Wheelan</text>
+      </navLabel>
+      <content src="text/part0024.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
