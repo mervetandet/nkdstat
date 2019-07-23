@@ -6,7 +6,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 20px;
-    text-align: left;
+    text-align: center;
     text-indent: 0
     }
 .App-Title {
@@ -19,7 +19,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 10px;
-    text-align: left;
+    text-align: center;
     text-indent: 0
     }
 .App-table-head {
@@ -27,9 +27,9 @@
     font-size: 0.88889em;
     font-style: normal;
     font-weight: normal;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-bottom: 50;
+    margin-left: 40;
+    margin-right: 40;
     margin-top: 31px;
     text-align: justify;
     text-indent: 0
