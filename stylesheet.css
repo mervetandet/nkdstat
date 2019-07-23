@@ -73,10 +73,10 @@
     font-size: 1.62963em;
     line-height: 1.2;
     margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
-    text-align: right;
+    text-align: center;
     text-indent: center
     }
 .CT----sub1 {
@@ -84,8 +84,8 @@
     font-size: 1.62963em;
     line-height: 1.2;
     margin-bottom: 40px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: center;
     text-indent: 0
@@ -96,8 +96,8 @@
     font-style: italic;
     line-height: 1.2;
     margin-bottom: 40px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: center;
     text-indent: 0
@@ -109,8 +109,8 @@
     font-weight: normal;
     line-height: 1.2;
     margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: center;
     text-indent: 0
@@ -551,11 +551,11 @@
     font-size: 1.125em;
     line-height: 1.2;
     margin-bottom: 0;
-    margin-left: 5pt;
-    margin-right: 5pt;
+    margin-left: 30pt;
+    margin-right: 30pt;
     margin-top: 0;
-    padding-left: 0;
-    padding-right: 0
+    padding-left: 30;
+    padding-right: 30
     }
 .calibre1 {
     font-style: italic;
@@ -957,7 +957,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 0%;
-    text-align: right;
+    text-align: center;
     text-indent: 0
     }
 .titlePageTitle {
@@ -970,7 +970,7 @@
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
-    text-align: right;
+    text-align: center;
     text-indent: 0
     }
 .txt {
@@ -979,8 +979,8 @@
     font-style: normal;
     font-weight: normal;
     margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: justify;
     text-indent: 21px
@@ -989,8 +989,8 @@
     display: block;
     font-size: 0.88889em;
     margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: justify;
     text-indent: 0
@@ -1001,8 +1001,8 @@
     font-style: normal;
     font-weight: normal;
     margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: justify;
     text-indent: 42px
@@ -1013,8 +1013,8 @@
     font-style: normal;
     font-weight: normal;
     margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 30;
+    margin-right: 30;
     margin-top: 0;
     text-align: center;
     text-indent: 0
