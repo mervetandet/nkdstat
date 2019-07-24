@@ -30,7 +30,7 @@ https://mervetandet.github.io/nkdstat/
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0014.html#ch10" id="ch_10" class="calibre4">10 Polling: <span class="ITALIC">How we know that 64 percent of Americans support the death penalty (with a sampling error ± 3 percent)</span></a></p></div>
 <p class="TOC-App"><a href="https://mervetandet.github.io/nkdstat/text/part0014.html#app10" id="app_10" class="calibre4">Appendix to Chapter 10</a></p>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0015.html#ch11" id="ch_11" class="calibre4">11 Regression Analysis: <span class="ITALIC">The miracle elixir</span></a></p></div>
-<p class="TOC-App"><a href="thttps://mervetandet.github.io/nkdstat/ext/part0015.html#app11" id="app_11" class="calibre4">Appendix to Chapter 11</a></p>
+<p class="TOC-App"><a href="https://mervetandet.github.io/nkdstat/text/part0015.html#app11" id="app_11" class="calibre4">Appendix to Chapter 11</a></p>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0016.html#ch12" id="ch_12" class="calibre4">12 Common Regression Mistakes: <span class="ITALIC">The mandatory warning label</span></a></p></div>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0017.html#ch13" id="ch_13" class="calibre4">13 Program Evaluation: <span class="ITALIC">Will going to Harvard change your life?</span></a></p></div>
 <p class="contentsEntryText1"> </p>
