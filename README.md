@@ -12,7 +12,7 @@ https://mervetandet.github.io/nkdstat/
 
 
 <p class="contentsEntryText"> </p>
-<div class="dedicationPage"><p class="contentsEntryText"><a href="text/part0003.html#intro01" id="intro_01" class="calibre4">Introduction: <span class="ITALIC">Why I hated calculus but love statistics</span></a></p></div>
+<div class="dedicationPage"><p class="contentsEntryText"><a href="https://mervetandet.github.io/nkdstat/text/part0003.html#intro01" id="intro_01" class="calibre4">Introduction: <span class="ITALIC">Why I hated calculus but love statistics</span></a></p></div>
 <p class="contentsEntryText"> </p>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0004.html#ch01" id="ch_01" class="calibre4">1 What’s the Point?</a></p></div>
 <div class="dedicationPage"><p class="contentsEntryText1"><a href="https://mervetandet.github.io/nkdstat/text/part0005.html#ch02" id="ch_02" class="calibre4">2 Descriptive Statistics: <span class="ITALIC">Who was the best baseball player of all time?</span></a></p></div>
